@@ -94,27 +94,6 @@ http status: 404
 {}
 ```
 
-* _And this happens with an incorrect URI:_
-
-```
-https://deft-gearbox-279600.ue.r.appspot.com/zip-code/000000
-```
-_Response:_
-```
-http status: 404
-```
-
-```json
-{
-    "timestamp": "2020-06-07T16:59:06.303+00:00",
-    "status": 404,
-    "error": "Not Found",
-    "message": "",
-    "path": "/zip-code/00000"
-}
-```
-
-
 
 #### Get all the settlements information related to a name:
 
