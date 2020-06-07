@@ -31,7 +31,7 @@ Dependency manager
 _The api is published in Google Cloud_
 
 
- * **[Documentation Swagger](https://deft-gearbox-279600.ue.r.appspot.com/swagger-ui.html#/)** 
+ * **[Documentation](https://deft-gearbox-279600.ue.r.appspot.com/swagger-ui.html#/)** 
 
 
 #### Get all settlements information from a zip code:
